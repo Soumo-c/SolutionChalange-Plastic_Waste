@@ -51,10 +51,10 @@ Future development efforts will focus on:
 
 A basic website showcasing this project has been developed using HTML and CSS. You can find the code for the website in this repository:
 
-* `index.html`: The main HTML file.
-* `styles.css`: The CSS file for styling the website.
+* `P-waste.html`: The main HTML file.
+* `P-Waste.css`: The CSS file for styling the website.
 
-You can open the `index.html` file in any web browser to view the website.
+You can open the `P-Waste.html` file in any web browser to view the website.
 
 
 ## Getting Started
@@ -63,7 +63,7 @@ To explore this project:
 
 1.  Clone this repository to your local machine.
 2.  Navigate to the repository directory.
-3.  Open the `index.html` file in your web browser to view the website.
+3.  Open the `P-Waste.html` file in your web browser to view the website.
 4.  Review the other files for more details on the concepts and design.
 
 ## Contributing
