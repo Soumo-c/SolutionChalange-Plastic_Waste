@@ -28,8 +28,6 @@ The transformation process involves the following key stages:
 4.  **Quality Control:** Ensuring the manufactured materials meet stringent quality and safety standards for their intended applications.
 5.  **Integration into Urban Infrastructure:** Implementing these sustainable materials in the construction and maintenance of urban infrastructure projects.
 
-![Process Flow Diagram](image_6aeffb.png)
-*Simplified Process Flow Diagram*
 
 ## Potential Impact
 
@@ -86,11 +84,6 @@ Contributions to this project are welcome. If you have ideas or suggestions for 
 * Open an issue to discuss your ideas.
 * Submit a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
 
 We would like to acknowledge the various research and initiatives around the world that are exploring innovative ways to utilize plastic waste for sustainable development.
 
