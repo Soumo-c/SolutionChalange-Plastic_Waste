@@ -56,17 +56,6 @@ A basic website showcasing this project has been developed using HTML and CSS. Y
 
 You can open the `index.html` file in any web browser to view the website.
 
-## Images
-
-The following images were referenced during the development of this project:
-
-* `image_6afb96.png`: Conceptual image related to sustainable urban infrastructure.
-* `image_6af7bd.png`: Another conceptual image related to the project.
-* `image_6af722.png`: Image potentially showcasing the USP or a key aspect.
-* `image_6aeffb.png`: Process flow diagram.
-* `image_69a925.png`: Architecture diagram of the proposed solution.
-
-These images can be found in the repository (if uploaded).
 
 ## Getting Started
 
